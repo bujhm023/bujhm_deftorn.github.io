@@ -1,0 +1,25 @@
+    video
+    {
+    overflow: hidden;
+    position: fixed;
+    height:125%;
+    top: 0px;
+    left: 0px;
+    transform: translateX(-5%) translateY(-15%);
+    -webkit-filter: blur(5px);
+    }
+    .my-first-site
+    {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    font-size: 100%;
+    color: red;
+    }
+    .clock
+    {
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    }
